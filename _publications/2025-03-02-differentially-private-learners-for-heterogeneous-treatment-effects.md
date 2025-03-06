@@ -6,6 +6,7 @@ date: 2025-03-02
 excerpt: "![private_cate](/images/private_cate.png){: style='float: left; height: 100px'}"
 paperurl: 'https://openreview.net/pdf?id=1z3SOCwst9'
 code: 'https://github.com/m-schroder/DP-CATE'
+arxiv: 'https://arxiv.org/abs/2503.03486'
 venue: ICLR
 ---
 
