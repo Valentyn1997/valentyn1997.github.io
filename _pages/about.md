@@ -23,7 +23,8 @@ My research interests include
 
 # News
 ### 2025
-- 📙 [Jan 2024] 1 paper accepted at the ICLR 2025: [Differentially Private Learners for Heterogeneous Treatment Effects](https://valentyn1997.github.io/publications/2025-03-02-differentially-private-learners-for-heterogeneous-treatment-effects/) (poster) 
+- 🎤 [Mar 2025] Presenting Nature Medicine paper 'Causal machine learning for predicting treatment outcomes' at the [DaSCI seminar (Andalusian Research Institute in Data Science and Computational Intelligence)](https://valentyn1997.github.io/talks/2025-03-12-talk-DaSCI-seminar/)
+- 📙 [Jan 2025] 1 paper accepted at the ICLR 2025: [Differentially Private Learners for Heterogeneous Treatment Effects](https://valentyn1997.github.io/publications/2025-03-02-differentially-private-learners-for-heterogeneous-treatment-effects/) (poster) 
 
 ### 2024
 - ✈️ [Dec 2024] Attending [NeurIPS 2024](https://nips.cc/Conferences/2024) in Vancouver, Canada
