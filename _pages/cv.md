@@ -45,6 +45,8 @@ redirect_from:
 {% endfor %}</ul>
 
 ## Academic activities
+* Reviewer at [ICML 2025](https://icml.cc/Conferences/2025)
+* Reviewer at [ICLR 2025](https://iclr.cc/Conferences/2025)
 * Reviewer at [NeurIPS 2024](https://nips.cc/Conferences/2024)
 * Reviewer at [ICML 2024](https://icml.cc/Conferences/2024)
 * Research stay at [van der Schaar Lab](https://www.vanderschaar-lab.com/) at the University of Cambridge, Feb-May 2024
