@@ -7,7 +7,7 @@ excerpt: "![diffpo](/images/diffpo.png){: style='float: left; height: 100px'}"
 arxiv: 'https://arxiv.org/abs/2410.08924'
 code: 'https://github.com/yccm/DiffPO'
 venue: NeurIPS
-poster: 'https://neurips.cc/virtual/2024/poster/93743'
+slides: 'https://neurips.cc/virtual/2024/poster/93743'
 paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2024/file/4d254c96c5ff500dda2ac0a58987aeba-Paper-Conference.pdf'
 ---
 
