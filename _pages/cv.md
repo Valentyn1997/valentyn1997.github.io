@@ -45,6 +45,7 @@ redirect_from:
 {% endfor %}</ul>
 
 ## Academic activities
+* Reviewer at [NeurIPS 2025](https://nips.cc/Conferences/2025)
 * Reviewer at [ICML 2025](https://icml.cc/Conferences/2025)
 * Reviewer at [ICLR 2025](https://iclr.cc/Conferences/2025)
 * Reviewer at [NeurIPS 2024](https://nips.cc/Conferences/2024)

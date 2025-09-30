@@ -12,7 +12,7 @@ Decision-making across various fields, such as medicine, heavily relies on condi
 
 Recommended citation: 
 ```bibtex
-@inproceedings{schroder2025conformal,
+@inproceedings{frauen2025treatment,
   title={Treatment Effect Estimation for Optimal Decision-Making},
   author={Frauen, Dennis and Melnychuk, Valentyn and Schweisthal, Jonas and van der Schaar, Mihaela and Feuerriegel, Stefan},
   booktitle={Advances in Neural Information Processing Systems},
