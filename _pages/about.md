@@ -21,8 +21,9 @@ My research interests include
 
 # News
 ### 2025
+- 🎤 [Nov 2025] Presenting on-going work 'Uncertainty quantification with (causal) prior-fitted networks' at the Vector Institute
 - 🎓 [Oct 2025 - Dec 2025] Attending [Rahul G. Krishnan](https://www.cs.toronto.edu/~rahulgk/) at the University of Toronto & Vector Institute as a visiting PhD student
-- 📙 [Sep 2025] 2 papers accepted at NeurIPS 2024: [Treatment Effect Estimation for Optimal Decision-Making](https://valentyn1997.github.io/publications/2025-09-15-treatment-effect-estimation-for-optimal-decision-making/) (poster), [Conformal Prediction for Causal Effects of Continuous Treatments](https://valentyn1997.github.io/publications/2025-09-15-conformal-prediction-for-causal-effects-of-continuous-treatments/) (poster)
+- 📙 [Sep 2025] 2 papers accepted at NeurIPS 2025: [Treatment Effect Estimation for Optimal Decision-Making](https://valentyn1997.github.io/publications/2025-09-15-treatment-effect-estimation-for-optimal-decision-making/) (poster), [Conformal Prediction for Causal Effects of Continuous Treatments](https://valentyn1997.github.io/publications/2025-09-15-conformal-prediction-for-causal-effects-of-continuous-treatments/) (poster)
 - 🎤 [Mar 2025] Presenting Nature Medicine paper 'Causal machine learning for predicting treatment outcomes' at the [DaSCI seminar (Andalusian Research Institute in Data Science and Computational Intelligence)](https://valentyn1997.github.io/talks/2025-03-12-talk-DaSCI-seminar/)
 - 📙 [Jan 2025] 1 paper accepted at the ICLR 2025: [Differentially Private Learners for Heterogeneous Treatment Effects](https://valentyn1997.github.io/publications/2025-03-02-differentially-private-learners-for-heterogeneous-treatment-effects/) (poster) 
 
