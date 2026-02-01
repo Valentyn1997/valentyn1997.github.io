@@ -20,6 +20,10 @@ My research interests include
 
 
 # News
+### 2026
+- 📙 [Jan 2025] 5 papers accepted at ICLR 2026: [Overlap-Adaptive Regularization for Conditional Average Treatment Effect Estimation](https://valentyn1997.github.io/publications/2025-09-29-overlap-adaptive-regularization-for-conditional-average-treatment-effect-estimation/), [GDR-learners: Orthogonal Learning of Generative Models for Potential Outcomes](https://valentyn1997.github.io/publications/2025-09-26-gdr-learners-orthogonal-learning-of-generative-models-for-potential-outcomes/), IGC-Net for Conditional Average Potential Outcome Estimation over Time, An Orthogonal Learner for Individualized Outcomes in Markov Decision Processes, [Efficient and Sharp Off-Policy Learning under Unobserved Confounding](https://valentyn1997.github.io/publications/2025-02-18-efficient-and-sharp-off-policy-learning-under-unobserved-confounding/)
+
+
 ### 2025
 - ✈️ [Dec 2025] Attending [NeurIPS 2025](https://nips.cc/Conferences/2025) in Mexico City, Mexico
 - 🎤 [Nov 2025] Presenting on-going work 'Uncertainty quantification with (causal) prior-fitted networks' at [Vector Institute](https://valentyn1997.github.io/talks/2025-11-07-talk-toronto-vector-uncertainty/)
@@ -27,7 +31,7 @@ My research interests include
 - 🏫 [Sep 2025] Joined a [Responsible AI for Ukraine program](https://airesponsibly.net/RAIforUkraine/) as a mentor  
 - 📙 [Sep 2025] 2 papers accepted at NeurIPS 2025: [Treatment Effect Estimation for Optimal Decision-Making](https://valentyn1997.github.io/publications/2025-09-15-treatment-effect-estimation-for-optimal-decision-making/) (poster), [Conformal Prediction for Causal Effects of Continuous Treatments](https://valentyn1997.github.io/publications/2025-09-15-conformal-prediction-for-causal-effects-of-continuous-treatments/) (poster)
 - 🎤 [Mar 2025] Presenting Nature Medicine paper 'Causal machine learning for predicting treatment outcomes' at the [DaSCI seminar (Andalusian Research Institute in Data Science and Computational Intelligence)](https://valentyn1997.github.io/talks/2025-03-12-talk-DaSCI-seminar/)
-- 📙 [Jan 2025] 1 paper accepted at the ICLR 2025: [Differentially Private Learners for Heterogeneous Treatment Effects](https://valentyn1997.github.io/publications/2025-03-02-differentially-private-learners-for-heterogeneous-treatment-effects/) (poster) 
+- 📙 [Jan 2025] 1 paper accepted at ICLR 2025: [Differentially Private Learners for Heterogeneous Treatment Effects](https://valentyn1997.github.io/publications/2025-03-02-differentially-private-learners-for-heterogeneous-treatment-effects/) (poster) 
 
 ### 2024
 - ✈️ [Dec 2024] Attending [NeurIPS 2024](https://nips.cc/Conferences/2024) in Vancouver, Canada
@@ -42,7 +46,7 @@ My research interests include
 - 📙 [May 2024] 1 paper accepted at ICML 2024: [Fair Off-Policy Learning from Observational Data](https://valentyn1997.github.io/publications/2024-05-01-fair-off-policy-learning-from-observational-data/)
 - 📙 [Apr 2024] A paper published in Nature Medicine: [Causal Machine Learning for Predicting Treatment Outcomes](https://valentyn1997.github.io/publications/2024-04-19-causal-machine-learning-for-predicting-treatment-outcomes/)
 - 🎓 [Feb 2024 - May 2024] Attending [van der Schaar Lab](https://www.vanderschaar-lab.com/) at the University of Cambridge as a visiting PhD student
-- 📙 [Jan 2024] 3 papers accepted at the ICLR 2024: [A Neural Framework for Generalized Causal Sensitivity Analysis](https://valentyn1997.github.io/publications/2024-01-16-a-neural-framework-for-generalized-causal-sensitivity-analysis/) (poster); [Bayesian Neural Controlled Differential Equations for Treatment Effect Estimation](https://valentyn1997.github.io/publications/2024-01-16-bayesian-neural-controlled-differential-equations-for-treatment-effect-estimation/) (poster); [Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation
+- 📙 [Jan 2024] 3 papers accepted at ICLR 2024: [A Neural Framework for Generalized Causal Sensitivity Analysis](https://valentyn1997.github.io/publications/2024-01-16-a-neural-framework-for-generalized-causal-sensitivity-analysis/) (poster); [Bayesian Neural Controlled Differential Equations for Treatment Effect Estimation](https://valentyn1997.github.io/publications/2024-01-16-bayesian-neural-controlled-differential-equations-for-treatment-effect-estimation/) (poster); [Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation
 ](https://valentyn1997.github.io/publications/2024-01-16-bounds-on-representation-induced-confounding-bias-for-treatment-effect-estimation/)  (spotlight)
 - 🎤 [Jan 2024] Presenting a pre-print 'Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation' at the [2nd Munich Causal ML Workshop](https://valentyn1997.github.io/talks/2024-01-15-talk-munich-causal-ml/)
 
