@@ -48,6 +48,9 @@
       <p>{{ post.authors }}.
         {% if post.venue %}
           Accepted at <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+          {% if post.kind %}
+          ({{post.kind}})
+          {% endif %}
         {% else %}
           <i>ArXiv preprint</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
         {% endif %}
