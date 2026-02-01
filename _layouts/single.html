@@ -37,7 +37,11 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
-          <p>{{ page.authors }}. Accepted at <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>{{ page.authors }}. Accepted at <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}
+          {% if page.kind %}
+            ({{page.kind}})
+          {% endif %}
+          </p>
         {% elsif page.date %}
           <p class="page__date">{{ page.authors }}. <i>ArXiv preprint</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
         {% endif %}
