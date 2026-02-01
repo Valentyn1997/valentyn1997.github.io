@@ -14,7 +14,7 @@ The conditional average treatment effect (CATE) is widely used in personalized m
 
 Recommended citation: 
 ```bibtex
-@article{melnychuk2026overlap,
+@inproceedings{melnychuk2026overlap,
   title={Overlap-Adaptive Regularization for Conditional Average Treatment Effect Estimation},
   author={Melnychuk, Valentyn and Frauen, Dennis and Schweisthal, Jonas and Feuerriegel, Stefan},
   booktitle={International Conference on Learning Representations},

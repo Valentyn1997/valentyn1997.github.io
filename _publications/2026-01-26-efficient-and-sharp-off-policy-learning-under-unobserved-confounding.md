@@ -14,7 +14,7 @@ We develop a novel method for personalized off-policy learning in scenarios with
 
 Recommended citation: 
 ```bibtex
-@article{hess2026efficient,
+@inproceedings{hess2026efficient,
   title={Efficient and Sharp Off-Policy Learning under Unobserved Confounding},
   author={Hess, Konstantin and Frauen, Dennis and Melnychuk, Valentyn and Feuerriegel, Stefan},
   booktitle={International Conference on Learning Representations},
