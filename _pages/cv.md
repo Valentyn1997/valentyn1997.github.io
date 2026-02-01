@@ -70,7 +70,7 @@ redirect_from:
 
 ## Languages
 * English - C1.2+
-* German - C1.1
+* German - C1.2
 * Ukrainian - native speaker
 
 ## Volunteer Activity 
