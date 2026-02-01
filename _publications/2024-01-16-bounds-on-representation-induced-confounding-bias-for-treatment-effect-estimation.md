@@ -10,6 +10,7 @@ paperurl: 'https://openreview.net/pdf?id=d3xKPQVjSc'
 code: 'https://github.com/Valentyn1997/RICB'
 slides: 'https://iclr.cc/media/iclr-2024/Slides/18278.pdf'
 venue: ICLR
+kind: 'spotlight poster'
 ---
 
 State-of-the-art methods for conditional average treatment effect (CATE) estimation make widespread use of representation learning. Here, the idea is to reduce the variance of the low-sample CATE estimation by a (potentially constrained) low-dimensional representation. However, low-dimensional representations can lose information about the observed confounders and thus lead to bias, because of which the validity of representation learning for CATE estimation is typically violated. In this paper, we propose a new, representation-agnostic framework for estimating bounds on the representation-induced confounding bias that comes from dimensionality reduction (or other constraints on the representations) in CATE estimation. First, we establish theoretically under which conditions CATEs are non-identifiable given low-dimensional (constrained) representations. Second, as our remedy, we propose to perform partial identification of CATEs or, equivalently, aim at estimating of lower and upper bounds of the representation-induced confounding bias. We demonstrate the effectiveness of our bounds in a series of experiments. In sum, our framework is of direct relevance in practice where the validity of CATE estimation is of importance.
