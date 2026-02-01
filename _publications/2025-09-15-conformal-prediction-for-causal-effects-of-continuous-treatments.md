@@ -7,6 +7,7 @@ excerpt: "![fair-policy](/images/conformal.png){: style='float: left; height: 10
 arxiv: 'https://arxiv.org/abs/2407.03094'
 venue: NeurIPS
 kind: 'poster'
+poster: 'https://neurips.cc/media/PosterPDFs/NeurIPS%202025/120194.png?t=1763829358.5166795'
 code: 'https://github.com/m-schroder/ContinuousCausalCP'
 ---
 
