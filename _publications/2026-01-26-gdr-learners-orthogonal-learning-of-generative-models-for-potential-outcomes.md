@@ -2,7 +2,7 @@
 title: "GDR-learners: Orthogonal Learning of Generative Models for Potential Outcomes"
 collection: publications
 authors: '<b>V. Melnychuk</b>, S. Feuerriegel'
-date: 2025-09-26
+date: 2026-01-26
 excerpt: "![gdr](/images/gdr.png){: style='float: left; height: 100px'}"
 arxiv: 'https://arxiv.org/abs/2509.22953'
 venue: 'ICLR'
