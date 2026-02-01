@@ -2,20 +2,20 @@
 title: "Orthogonal Representation Learning for Estimating Causal Quantities"
 collection: publications
 authors: '<b>V. Melnychuk</b>, D. Frauen, J. Schweisthal, S. Feuerriegel'
-date: 2025-02-06
+date: 2026-01-22
 excerpt: "![orht-repr](/images/orht-repr.png){: style='float: left; height: 100px'}"
 arxiv: 'https://arxiv.org/abs/2502.04274'
-preprint: true
+venue: AISTATS
 ---
 
-Representation learning is widely used for estimating causal quantities (e.g., the conditional average treatment effect) from observational data. While existing representation learning methods have the benefit of allowing for end-to-end learning, they do not have favorable theoretical properties of Neyman-orthogonal learners, such as double robustness and quasi-oracle efficiency. Also, such representation learning methods often employ additional constraints, like balancing, which may even lead to inconsistent estimation. In this paper, we propose a novel class of Neyman-orthogonal learners for causal quantities defined at the representation level, which we call OR-learners. Our OR-learners have several practical advantages: they allow for consistent estimation of causal quantities based on any learned representation, while offering favorable theoretical properties including double robustness and quasi-oracle efficiency. In multiple experiments, we show that, under certain regularity conditions, our OR-learners improve existing representation learning methods and achieve state-of-the-art performance. To the best of our knowledge, our OR-learners are the first work to offer a unified framework of representation learning methods and Neyman-orthogonal learners for causal quantities estimation.
+End-to-end representation learning has become a powerful tool for estimating causal quantities from high-dimensional observational data, but its efficiency remained unclear. Here, we face a central tension: End-to-end representation learning methods often work well in practice but lack asymptotic optimality in the form of the quasi-oracle efficiency. In contrast, two-stage Neyman-orthogonal learners provide such a theoretical optimality property but do not explicitly benefit from the strengths of representation learning. In this work, we step back and ask two research questions: (1) When do representations strengthen existing Neyman-orthogonal learners? and (2) Can a balancing constraint – commonly proposed technique in the representation learning literature – provide improvements to Neyman-orthogonality? We address these two questions through our theoretical and empirical analysis, where we introduce a unifying framework that connects representation learning with Neyman-orthogonal learners (namely, OR-learners). In particular, we show that, under the low-dimensional manifold hypothesis, the OR-learners can strictly improve the estimation error of the standard Neyman-orthogonal learners. At the same time, we find that the balancing constraint requires an additional inductive bias and cannot generally compensate for the lack of Neyman-orthogonality of the end-to-end approaches. Building on these insights, we offer guidelines for how users can effectively combine representation learning with the classical Neyman-orthogonal learners to achieve both practical performance and theoretical guarantees.
 
 Recommended citation: 
 ```bibtex
-@article{melnychuk2025orthogonal,
+@inproceedings{melnychuk2026orthogonal,
   title={Orthogonal representation learning for estimating causal quantities},
   author={Melnychuk, Valentyn and Frauen, Dennis and Schweisthal, Jonas and Feuerriegel, Stefan},
-  journal={arXiv preprint arXiv:2502.04274},
-  year={2025}
+  booktitle={International Conference on Artificial Intelligence and Statistics},
+  year={2026}
 }
 ```
