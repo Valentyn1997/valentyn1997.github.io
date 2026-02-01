@@ -3,7 +3,7 @@ title: "An Orthogonal Learner for Individualized Outcomes in Markov Decision Pro
 collection: publications
 authors: 'E. Javurek, <b>V. Melnychuk</b>, J. Schweisthal, K. Hess, D. Frauen, S. Feuerriegel'
 date: 2026-01-26
-excerpt: "![fair-policy](/images/orth-mdp.png){: style='float: left; height: 100px'}"
+excerpt: "![orth-mdp](/images/orht-mdp.png){: style='float: left; height: 100px'}"
 arxiv: 'https://arxiv.org/abs/2509.26429'
 venue: 'ICLR'
 paperurl: 'https://openreview.net/pdf?id=PRu8Sybp1j'
