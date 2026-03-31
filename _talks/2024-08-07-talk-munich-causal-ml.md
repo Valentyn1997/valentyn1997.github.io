@@ -9,3 +9,5 @@ slides: 'https://valentyn1997.github.io/doc/2024-08-07-Causal-ML-for-treatment-e
 ---
 
 Tutorial on the universe of the causal ML methods. 
+
+![causal-ml-workshop-photo](/images/causal-ml-workshop.jpeg)
