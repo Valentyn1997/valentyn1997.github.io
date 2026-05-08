@@ -5,6 +5,7 @@ authors: 'D. Frauen, <b>V. Melnychuk</b>, J. Schweisthal, M. van der Schaar, S. 
 date: 2025-09-15
 excerpt: "![treat-pol](/images/treat-pol.png){: style='float: left; height: 100px'}"
 arxiv: 'https://arxiv.org/abs/2505.13092'
+paperurl: 'https://papers.nips.cc/paper_files/paper/2025/file/c248154176c08147e82c0b30961604f7-Paper-Conference.pdf'
 venue: 'NeurIPS'
 kind: 'poster'
 poster: 'https://neurips.cc/media/PosterPDFs/NeurIPS%202025/119342.png?t=1763503273.7907088'

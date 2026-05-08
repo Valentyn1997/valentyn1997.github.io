@@ -5,6 +5,7 @@ authors: 'M. Schröder, D. Frauen, J. Schweisthal, K. Hess, <b>V. Melnychuk</b>,
 date: 2025-09-15
 excerpt: "![fair-policy](/images/conformal.png){: style='float: left; height: 100px'}"
 arxiv: 'https://arxiv.org/abs/2407.03094'
+paperurl: 'https://papers.nips.cc/paper_files/paper/2025/file/02435e97d53c423a68622cb3c42403fd-Paper-Conference.pdf'
 venue: NeurIPS
 kind: 'poster'
 poster: 'https://neurips.cc/media/PosterPDFs/NeurIPS%202025/120194.png?t=1763829358.5166795'
