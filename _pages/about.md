@@ -21,6 +21,7 @@ My research interests include
 
 # News
 ### 2026
+- 🎤 [May 2026] Presenting a paper 'Differentially Private Learners for Heterogeneous Treatment Effects' at the [ELLIS Workshop on Safe and Secure Artificial Intelligence 2026](https://ellis.ciirc.cvut.cz/ellis-workshop-on-safe-and-secure-ai-2026/) 
 - ✈️ [May 2026] Attending [AISTATS 2026](https://aistats.org/aistats2026/) in Tangier, Morocco
 - 📙 [May 2026] 1 paper accepted at ICML 2026: [Frequentist Consistency of Prior-Data Fitted Networks for Causal Inference](https://valentyn1997.github.io/publications/2026-05-01-frequentist-consistency-of-prior-data-fitted-networks-for-causal-inference/) (poster)
 - ✈️ [Apr 2026] Attending [ICLR 2026](https://iclr.cc/Conferences/2026) in Rio de Janeiro, Brazil
