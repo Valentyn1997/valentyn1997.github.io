@@ -21,6 +21,8 @@ My research interests include
 
 # News
 ### 2026
+- ✈️‍ [Jun 2026] Attending [International Symposium on Nonparametric Statistics 2026](https://easyconferences.eu/isnps2026/) & presenting AISTATS 2026 paper 'Orthogonal Representation Learning for Estimating Causal Quantities' in Thessaloniki, Greece 
+- 🧘‍ [Jun 2026] Attending [relAI retreat 2026](https://zuseschoolrelai.de/relai-retreat-2026/) in Bad Kohlgrub, Germany
 - 🎤 [May 2026] Presenting a paper 'Differentially Private Learners for Heterogeneous Treatment Effects' at the [ELLIS Workshop on Safe and Secure Artificial Intelligence 2026](https://ellis.ciirc.cvut.cz/ellis-workshop-on-safe-and-secure-ai-2026/) 
 - ✈️ [May 2026] Attending [AISTATS 2026](https://aistats.org/aistats2026/) in Tangier, Morocco
 - 📙 [May 2026] 1 paper accepted at ICML 2026: [Frequentist Consistency of Prior-Data Fitted Networks for Causal Inference](https://valentyn1997.github.io/publications/2026-05-01-frequentist-consistency-of-prior-data-fitted-networks-for-causal-inference/) (poster)
@@ -37,6 +39,7 @@ My research interests include
 - 🎓 [Oct 2025 - Dec 2025] Attending [Rahul G. Krishnan](https://www.cs.toronto.edu/~rahulgk/) at the University of Toronto & Vector Institute as a visiting PhD student
 - 🏫 [Sep 2025] Joined a [Responsible AI for Ukraine program](https://airesponsibly.net/RAIforUkraine/) as a mentor  
 - 📙 [Sep 2025] 2 papers accepted at NeurIPS 2025: [Treatment Effect Estimation for Optimal Decision-Making](https://valentyn1997.github.io/publications/2025-09-15-treatment-effect-estimation-for-optimal-decision-making/) (poster), [Conformal Prediction for Causal Effects of Continuous Treatments](https://valentyn1997.github.io/publications/2025-09-15-conformal-prediction-for-causal-effects-of-continuous-treatments/) (poster)
+- 🧘‍ [Jun 2025] Attending [relAI retreat 2025](https://zuseschoolrelai.de/relai-retreat-2025/) in Bad Kohlgrub, Germany
 - 🎤 [Mar 2025] Presenting Nature Medicine paper 'Causal machine learning for predicting treatment outcomes' at the [DaSCI seminar (Andalusian Research Institute in Data Science and Computational Intelligence)](https://valentyn1997.github.io/talks/2025-03-12-talk-DaSCI-seminar/)
 - 📙 [Jan 2025] 1 paper accepted at ICLR 2025: [Differentially Private Learners for Heterogeneous Treatment Effects](https://valentyn1997.github.io/publications/2025-03-02-differentially-private-learners-for-heterogeneous-treatment-effects/) (poster) 
 
