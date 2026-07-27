@@ -40,8 +40,14 @@ redirect_from:
 </ul>
   
 ## Talks
+{% assign current_year = '' %}
 <ul>{% for post in site.talks reversed %}
-{% include archive-single-talk-cv.html %}
+  {% assign talk_year = post.date | date: "%Y" %}
+  {% if talk_year != current_year %}
+    <h3>{{ talk_year }}</h3>
+    {% assign current_year = talk_year %}
+  {% endif %}
+  {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
 
 ## Academic activities
