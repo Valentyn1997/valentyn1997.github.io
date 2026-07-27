@@ -8,7 +8,6 @@ author_profile: true
 
 [comment]: <> (You can also find my articles on <a href="https://scholar.google.com/citations?user=EMExrOMAAAAJ&hl=en"> Google Scholar profile</a>.)
 
-## Peer-reviewed
 <p>
   {% assign current_year = '' %}
     {% for post in site.publications reversed %}
@@ -23,9 +22,3 @@ author_profile: true
   {% endfor %}
 </p>
 
-## Pre-prints
-{% for post in site.publications reversed %}
-  {% if post.preprint %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
