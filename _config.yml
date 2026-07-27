@@ -219,9 +219,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
-    permalink: /:collection/:path/
+    permalink: /preprints/:path/
   talks:
     output: true
     permalink: /:collection/:path/

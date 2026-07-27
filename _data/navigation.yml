@@ -9,9 +9,10 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/
     
-#  - title: "Projects"
-#    url: /projects/
-        
+  - title: "Pre-prints"
+    url: /preprints/
+
+
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
