@@ -1,5 +1,5 @@
 ---
-title: "ConfoundingSHAP: Quantifying confounding strength in causal inference"
+title: "ConfoundingSHAP: Quantifying Confounding Strength in Causal Inference"
 collection: projects
 authors: 'M. Brockschmidt, S. M. A. R. Thies, M. Schröder, D. Frauen, <b>V. Melnychuk</b>, M. Muschalik, E. Hüllermeier, S. Feuerriegel'
 date: 2026-05-11
@@ -13,7 +13,7 @@ In causal inference, confounders are variables that influence both treatment dec
 Recommended citation: 
 ```bibtex
 @article{brockschmidt2026confoundingshap,
-  title={Confounding{SHAP}: Quantifying confounding strength in causal inference},
+  title={Confounding{SHAP}: Quantifying Confounding Strength in Causal Inference},
   author={Brockschmidt, Marie and Thies, Santo M. A. R. and Schr{\"o}der, Maresa and Frauen, Dennis and Melnychuk, Valentyn and Muschalik, Maximilian and H{\"u}llermeier, Eyke and Feuerriegel, Stefan},
   journal={arXiv preprint arXiv:2605.10533},
   year={2026}
