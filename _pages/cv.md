@@ -32,7 +32,7 @@ redirect_from:
 
 ### Pre-prints
 <ul>
-{% for post in site.publications reversed %}
+{% for post in site.projects reversed %}
   {% if post.preprint %}
     {% include archive-single-cv.html %}
   {% endif %}
