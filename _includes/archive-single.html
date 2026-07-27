@@ -73,20 +73,21 @@
       <p>Recommended citation: {{ post.citation }} </p>
     {% endif %}
     <p>
+      {% assign link_sep = '' %}
       {% if post.arxiv %}
-        <a href=" {{ post.arxiv }} ">ArXiv</a>
+        <a href=" {{ post.arxiv }} ">ArXiv</a>{% assign link_sep = ' | ' %}
       {% endif %}
       {% if post.paperurl %}
-        | <a href=" {{ post.paperurl }} ">PDF</a>
+        {{ link_sep }}<a href=" {{ post.paperurl }} ">PDF</a>{% assign link_sep = ' | ' %}
       {% endif %}
       {% if post.code %}
-        | <a href=" {{ post.code }} ">Code</a>
+        {{ link_sep }}<a href=" {{ post.code }} ">Code</a>{% assign link_sep = ' | ' %}
       {% endif %}
       {% if post.slides %}
-        | <a href=" {{ post.slides }} ">Slides</a>
+        {{ link_sep }}<a href=" {{ post.slides }} ">Slides</a>{% assign link_sep = ' | ' %}
       {% endif %}
       {% if post.poster %}
-        | <a href=" {{ post.poster }} ">Poster</a>
+        {{ link_sep }}<a href=" {{ post.poster }} ">Poster</a>{% assign link_sep = ' | ' %}
       {% endif %}
     </p>
 

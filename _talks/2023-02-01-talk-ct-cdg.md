@@ -6,7 +6,7 @@ venue: "<a href='https://matej-zecevic.de/cdg/'>Causality Discussion Group</a>"
 date: 2023-02-01
 location: "online"
 recording: 'https://www.youtube.com/watch?v=mkacvr0csPs'
-slides: 'https://valentyn1997.github.io/doc/2023-02-01-Causal-Transformer-for-Estimating-Counterfactual-Outcomes.pdf'
+slides: '/doc/2023-02-01-Causal-Transformer-for-Estimating-Counterfactual-Outcomes.pdf'
 ---
 
 **Title**: Causal Transformer for Estimating Counterfactual Outcomes

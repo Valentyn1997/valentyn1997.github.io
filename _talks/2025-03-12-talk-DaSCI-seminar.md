@@ -5,7 +5,7 @@ type: "Presentation"
 venue: "<a href='https://dasci.es/en/eventos/causal-ml-for-predicting-treatment-outcomes/'>DaSCI Seminar, Andalusian Research Institute in Data Science and Computational Intelligence</a>"
 date: 2025-03-12
 location: "online"
-slides: 'https://valentyn1997.github.io/doc/2025-03-12-Causal-ML-DaSCI-seminar.pdf'
+slides: '/doc/2025-03-12-Causal-ML-DaSCI-seminar.pdf'
 recording: 'https://www.youtube.com/watch?v=_WKIzowbSVA'
 ---
 

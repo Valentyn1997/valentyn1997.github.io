@@ -5,7 +5,7 @@ type: "Presentation"
 venue: "<a href='https://easyconferences.eu/isnps2026/program/'>International Symposium on Nonparametric Statistics (ISNPS) 2026</a>"
 date: 2026-06-25
 location: "Thessaloniki, Greece"
-slides: 'https://valentyn1997.github.io/doc/2026-06-25-Orthogonal-Representation-Learning-for-Estimating-Causal-Quantities.pdf'
+slides: '/doc/2026-06-25-Orthogonal-Representation-Learning-for-Estimating-Causal-Quantities.pdf'
 ---
 
 **Title**: Orthogonal Representation Learning for Estimating Causal Quantities

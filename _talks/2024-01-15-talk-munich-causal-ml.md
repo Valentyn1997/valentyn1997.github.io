@@ -5,7 +5,7 @@ type: "Presentation"
 venue: "2nd Munich Causal ML Workshop"
 date: 2024-01-15
 location: "LMU Munich, Munich, Germany"
-slides: 'https://valentyn1997.github.io/doc/2024-01-15-Bounds-on-Representation-Induced-Confounding-Bias-for-Treatment-Effect-Estimation.pdf'
+slides: '/doc/2024-01-15-Bounds-on-Representation-Induced-Confounding-Bias-for-Treatment-Effect-Estimation.pdf'
 ---
 
 **Title**: Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation

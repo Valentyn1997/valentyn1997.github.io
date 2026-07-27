@@ -5,7 +5,7 @@ type: "Short talk"
 venue: "<a href='https://ellis.ciirc.cvut.cz/ellis-workshop-on-safe-and-secure-ai-2026/'>ELLIS Workshop on Safe and Secure Artificial Intelligence 2026</a>"
 date: 2026-05-20
 location: "online"
-slides: 'https://valentyn1997.github.io/doc/2026-05-20-ELLIS-Workshop-on-Safe-and-Secure-Artificial-Intelligence-Private-Causal-Inference.pdf'
+slides: '/doc/2026-05-20-ELLIS-Workshop-on-Safe-and-Secure-Artificial-Intelligence-Private-Causal-Inference.pdf'
 recording: 'https://youtu.be/WRe22GO52v4?list=PLr1w0qwTp9lAkiQ2QS5y39eIJDZv0Nyiv&t=3990'
 ---
 
