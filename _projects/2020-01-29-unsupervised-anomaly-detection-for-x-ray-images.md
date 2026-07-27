@@ -1,6 +1,6 @@
 ---
 title: "Unsupervised Anomaly Detection for X-Ray Images"
-collection: publications
+collection: projects
 authors: 'D. Davletshina, <b>V. Melnychuk</b>, V. Tran, H. Singla, M. Berrendorf, E. Faerman, M. Fromm, M. Schubert'
 date: 2020-01-29
 excerpt: "![anomalies](/images/anomalies.png){: style='float: left; height: 100px'}"

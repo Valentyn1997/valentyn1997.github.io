@@ -1,6 +1,6 @@
 ---
 title: "Matching the Clinical Reality: Accurate OCT-Based Diagnosis From Few Labels"
-collection: publications
+collection: projects
 authors: '<b>V. Melnychuk</b>, E. Faerman, I. Manakov, T. Seidl'
 date: 2020-10-20
 excerpt: "![oct-diagn](/images/oct-diagn.png){: style='float: left; height: 100px'}"
