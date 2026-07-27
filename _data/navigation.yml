@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Pre-prints"
+    url: /preprints/
+
   - title: "Talks"
     url: /talks/
 
 #  - title: "Teaching"
 #    url: /teaching/
-    
-  - title: "Pre-prints"
-    url: /preprints/
 
 
 #  - title: "Blog Posts"
