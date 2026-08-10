@@ -36,6 +36,10 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif page.collection == 'posts' %}
+          <p>{{ page.authors }}.
+            {% if page.venue %}<i>{{ page.venue }}</i>, {% endif %}{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}
+          </p>
         {% elsif page.venue and page.date %}
           <p>{{ page.authors }}. Accepted at <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}
           {% if page.kind %}
@@ -75,7 +79,7 @@ layout: default
 
       <section class="page__content" itemprop="text">
         {{ content }}
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+        {% if page.link and page.collection != 'posts' %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
       <footer class="page__meta">
