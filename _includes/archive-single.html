@@ -13,7 +13,7 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item{% if post.collection == 'publications' or post.collection == 'projects' %} archive__item--figure{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -38,6 +38,11 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
+    {% if post.collection == 'posts' %}
+      {% if post.date %}<p class="page__meta">{{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
+      {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{ post.venue }}</p>{% endif %}
+    {% endif %}
+
     {% if post.collection == 'publications' or post.collection == 'projects' or post.collection == 'posts' %}
       {{ post.excerpt | markdownify }}
     {% endif %}
@@ -56,9 +61,6 @@
         {% endif %}
       </p>
     {% elsif post.collection == 'posts' %}
-      <p>{{ post.authors }}.
-        {% if post.venue %}<i>{{ post.venue }}</i>, {% endif %}{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}
-      </p>
     {% elsif post.date %}
      <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     {% endif %}
@@ -76,7 +78,7 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% endif %}
-    <p>
+    <p class="archive__item-links">
       {% assign link_sep = '' %}
       {% if post.collection == 'posts' and post.link %}
         <a href=" {{ post.link }} ">Read post</a>{% assign link_sep = ' | ' %}

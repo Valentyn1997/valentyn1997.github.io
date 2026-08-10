@@ -27,8 +27,40 @@
   }
 }
 
+/* Publication/pre-print thumbnails are trimmed of their blank borders, so each
+   one fills this box in at least one dimension. Reserving a fixed box gives
+   every entry the same figure footprint, with the image centred and the
+   leftover space split evenly around it. */
+.archive__item--figure img {
+  width: 233px;
+  height: 100px;
+  object-fit: contain;
+  object-position: center center;
+  margin-right: 15px;
+}
+
+/* Contains the floated figure so a tall thumbnail cannot spill into the next
+   entry or into the year heading below it. */
+.list__item .archive__item {
+  overflow: hidden;
+}
+
+/* Tightens the gap above the links line so it matches the spacing between the
+   date and location lines, instead of the default paragraph margin. */
+.archive__item {
+  > p:not(.archive__item-links) {
+    margin-bottom: 4px;
+  }
+
+  > .archive__item-links {
+    margin-top: 0;
+  }
+}
+
 .archive__subtitle {
-  margin: 1.414em 0 0;
+  /* Extra top margin so the only added breathing room in a listing sits
+     before each year heading, not between individual entries. */
+  margin: 3em 0 0;
   padding-bottom: 0.5em;
   font-size: $type-size-5;
   color: var(--global-text-color-light);

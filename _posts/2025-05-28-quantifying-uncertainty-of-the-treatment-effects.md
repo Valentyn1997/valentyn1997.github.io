@@ -1,7 +1,6 @@
 ---
 title: "Quantifying Uncertainty of the Treatment Effects"
 date: 2025-05-28
-authors: '<b>V. Melnychuk</b>'
 venue: 'relAI blog'
 link: 'https://zuseschoolrelai.de/blog/quantifying-uncertainty-of-the-treatment-effects/'
 read_time: false

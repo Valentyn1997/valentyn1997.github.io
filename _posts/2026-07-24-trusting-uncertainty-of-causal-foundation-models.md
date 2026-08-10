@@ -1,7 +1,6 @@
 ---
 title: "Can We Trust the Uncertainty of Causal Foundation Models?"
 date: 2026-07-24
-authors: '<b>V. Melnychuk</b>'
 venue: 'relAI blog'
 link: 'https://zuseschoolrelai.de/blog/trusting-uncertainty-causal-foundation-models/'
 read_time: false
