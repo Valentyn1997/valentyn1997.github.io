@@ -6,6 +6,8 @@ date: 2026-05-01
 excerpt: "![pfns-freq](/images/pfns-freq.png){: style='float: left; height: 100px'}"
 arxiv: 'https://arxiv.org/abs/2603.12037'
 venue: ICML
+poster: 'https://icml.cc/media/PosterPDFs/ICML%202026/61548.png?t=1783412823.3331676'
+code: 'https://github.com/Valentyn1997/freq-cons-pfns'
 kind: 'poster'
 ---
 
