@@ -15,3 +15,5 @@ slides: 'doc/2026-05-04-AISTATS-Orthogonal-Representation-Learning-for-Estimatin
 **Session**: [Oral Session 7: Causality, Kernels & Statistical Testing](https://virtual.aistats.org/virtual/2026/session/11474)
 
 **Paper Link**: [https://arxiv.org/abs/2502.04274](https://arxiv.org/abs/2502.04274)
+
+![aistats-2026](/images/aistats-2026.jpg)
