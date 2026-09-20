@@ -26,6 +26,7 @@ My research interests include
 - ✈️ [Jul 2026] Attending [ICML 2026](https://icml.cc/Conferences/2026) in Seoul, South Korea
 - ✈️‍ [Jun 2026] Attending [International Symposium on Nonparametric Statistics 2026](https://easyconferences.eu/isnps2026/) & presenting AISTATS 2026 paper ['Orthogonal Representation Learning for Estimating Causal Quantities'](/talks/2026-06-25-talk-ISNPS/) in Thessaloniki, Greece 
 - 🧘‍ [Jun 2026] Attending [relAI retreat 2026](https://zuseschoolrelai.de/relai-retreat-2026/) in Bad Kohlgrub, Germany
+- 🏅 [May 2026] Designated as a top reviewer at [ICML 2026](https://icml.cc/Conferences/2026)
 - 📙 [May 2026] A paper published in Wiley StatsRef: [Machine Learning for Causal Inference](/publications/2026-05-25-machine-learning-for-causal-inference/)
 - 🎤 [May 2026] Presenting a paper 'Differentially Private Learners for Heterogeneous Treatment Effects' at the [ELLIS Workshop on Safe and Secure Artificial Intelligence 2026](https://ellis.ciirc.cvut.cz/ellis-workshop-on-safe-and-secure-ai-2026/) 
 - ✈️ [May 2026] Attending [AISTATS 2026](https://aistats.org/aistats2026/) in Tangier, Morocco

@@ -51,7 +51,7 @@ redirect_from:
 {% endfor %}</ul>
 
 ## Academic activities
-* Reviewer at [ICML 2026](https://icml.cc/Conferences/2026)
+* Top reviewer at [ICML 2026](https://icml.cc/Conferences/2026)
 * Reviewer at [ICLR 2026](https://iclr.cc/Conferences/2026)
 * Research stay at [Rahul G. Krishnan's Lab](https://www.cs.toronto.edu/~rahulgk/) at the University of Toronto & Vector Institute, Oct-Dec 2025
 * Mentor at the [Responsible AI for Ukraine 2025 program](https://airesponsibly.net/RAIforUkraine/)
