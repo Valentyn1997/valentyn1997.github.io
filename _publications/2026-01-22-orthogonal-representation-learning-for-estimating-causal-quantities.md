@@ -7,6 +7,7 @@ excerpt: "![orht-repr](/images/orht-repr.png){: style='float: left; height: 100p
 arxiv: 'https://arxiv.org/abs/2502.04274'
 venue: 'AISTATS'
 kind: 'oral presentation'
+paperurl: 'https://proceedings.mlr.press/v300/melnychuk26a.html'
 poster: 'https://virtual.aistats.org/media/PosterPDFs/AISTATS%202026/14063.png?t=1777730856.2221136'
 code: 'https://github.com/Valentyn1997/OR-learners'
 slides: 'https://virtual.aistats.org/media/aistats-2026/Slides/13862_mmpybSi.pdf'
