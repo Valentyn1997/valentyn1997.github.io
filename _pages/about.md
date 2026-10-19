@@ -21,6 +21,8 @@ My research interests include
 
 # News
 ### 2026
+- 🎤 [Oct 2026] Giving a talk 'Causal ML for treatment effect estimation' at the [MZES Social Science Data Lab, University of Mannheim](/talks/2026-10-14-mannheim/), Mannheim, Germany
+- 🏅 [Oct 2026] Designated as a top reviewer at [NeurIPS 2026](https://neurips.cc/Conferences/2026)
 - 🎤 [Aug 2026] Presenting a tutorial 'Uncertainty quantification in Causal ML' at the [5th Munich Causal ML Workshop](/talks/2026-08-13-talk-munich-causal-ml/)
 - 🏫 [Jul 2026] Attending [Munich Econometrics Workshop 2026](https://munichmetrics.de/workshop-2026) in Munich, Germany
 - ✈️ [Jul 2026] Attending [ICML 2026](https://icml.cc/Conferences/2026) in Seoul, South Korea
