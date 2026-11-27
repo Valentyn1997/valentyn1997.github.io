@@ -9,8 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+## Employment
+* Postdoctoral researcher, LMU Munich, Germany, 2026 - Present
+
 ## Education
-* Ph.D. in Computer Science, LMU Munich, Germany, 2021 - Present
+* Ph.D. in Computer Science, LMU Munich, Germany, 2021 - 2026
 * M.S. in Data Science, LMU Munich, Germany, 2018 - 2021
 * B.S. in System Analysis, National Technical University of Ukraine ”Igor Sikorsky Kyiv Polytechnic Institute”, Ukraine, 2014 - 2018
 
@@ -73,8 +76,8 @@ redirect_from:
 * Junior Java Developer, ProFIX (Kyiv, Ukraine), 2017 - 2018
   
 ## Awards & Affiliations
-* Co-director of the [Causal ML Lab](https://www.som.lmu.de/ai/en/research/causal-ml-lab/) at the Institute of AI in Management, LMU Munich, since 2024
-* [Associated PhD student](https://zuseschoolrelai.de/people/scientists/valentyn-melnychuk/) at Konrad Zuse School of Excellence in Reliable AI (relAI), since 2023
+* Director of the [Causal ML Lab](https://www.som.lmu.de/ai/en/research/causal-ml-lab/) at the Institute of AI in Management, LMU Munich, since 2024
+* [Associated PhD student](https://zuseschoolrelai.de/people/scientists/valentyn-melnychuk/) at Konrad Zuse School of Excellence in Reliable AI (relAI), 2023 - 2026
 * LMU Study Scholarship for International Students, 2019
 * Ukrainian Team Programming Olympiad, 2016
 
