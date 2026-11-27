@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the Institute of AI in Management, LMU Munich. I do causal machine learning research under the supervision of [prof. Stefan Feuerriegel](https://www.ai.bwl.uni-muenchen.de/index.html).
+I am a PostDoc at the Institute of AI in Management, LMU Munich. I do research on causal machine learning with [Prof. Stefan Feuerriegel](https://www.ai.bwl.uni-muenchen.de/index.html).
 
 My research interests include
 - Causal Machine Learning / Treatment Effect Estimation
 - Causal Inference
 - Probabilistic Modelling
+- Semiparametric Inference
 
 
 &nbsp;
@@ -21,6 +22,7 @@ My research interests include
 
 # News
 ### 2026
+- 🏁 [Oct 2026] Defended my PhD dissertation 'Uncertainty Quantification in Causal Machine Learning'
 - 🎤 [Oct 2026] Giving a talk 'Causal ML for treatment effect estimation' at the [MZES Social Science Data Lab, University of Mannheim](/talks/2026-10-14-mannheim/), Mannheim, Germany
 - 🏅 [Oct 2026] Designated as a top reviewer at [NeurIPS 2026](https://neurips.cc/Conferences/2026)
 - 🎤 [Aug 2026] Presenting a tutorial 'Uncertainty quantification in Causal ML' at the [5th Munich Causal ML Workshop](/talks/2026-08-13-talk-munich-causal-ml/)
