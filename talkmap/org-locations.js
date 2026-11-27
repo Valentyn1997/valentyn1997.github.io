@@ -16,12 +16,17 @@ var addressPoints = [
   ],
   [
     "Tangier, Morocco",
-    35.7696302,
-    -5.8033522
+    35.7694908,
+    -5.8044679
   ],
   [
     "Thessaloniki, Greece",
     40.6403167,
     22.9352716
+  ],
+  [
+    "University of Mannheim, Mannheim, Germany",
+    49.4699765,
+    8.4819024
   ]
 ];
