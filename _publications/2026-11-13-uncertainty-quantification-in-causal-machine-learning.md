@@ -5,8 +5,8 @@ authors: '<b>V. Melnychuk</b>'
 date: 2026-11-13
 venue: 'LMU Munich'
 kind: 'PhD dissertation'
-excerpt: ""
-paperurl: 'https://edoc.ub.uni-muenchen.de/37918/1/melnychuk_valentyn.pdf'
+excerpt: "![lmu-seal](/images/lmu-seal.png){: style='float: left; height: 100px'}"
+paperurl: 'https://edoc.ub.uni-muenchen.de/37918/'
 ---
 
 Causal machine learning (causal ML) integrates structural causal knowledge with flexible predictive models to estimate the consequences of interventions from observational data. A central goal is treatment effect estimation – learning how an outcome would change under alternative actions (treatments), either on average or as a whole distribution. The estimates of treatment effects then underpin data-driven decision making in settings where randomized trials are limited or infeasible. These settings include personalized medicine (selecting therapies for patients), public policy (evaluating program impacts), marketing (forecasting responses to pricing or outreach), and education (targeting interventions to students).
