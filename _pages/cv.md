@@ -54,21 +54,14 @@ redirect_from:
 {% endfor %}</ul>
 
 ## Academic activities
-* Gold reviewer at [ICML 2026](https://icml.cc/Conferences/2026)
-* Reviewer at [ICLR 2026](https://iclr.cc/Conferences/2026)
+* Reviewer at [ICML 2024](https://icml.cc/Conferences/2024), [ICML 2025](https://icml.cc/Conferences/2025), [ICML 2026](https://icml.cc/Conferences/2026) (gold)
+* Reviewer at [ICLR 2024](https://iclr.cc/Conferences/2024), [ICLR 2025](https://iclr.cc/Conferences/2025), [ICLR 2026](https://iclr.cc/Conferences/2026), [ICLR 2027](https://iclr.cc/Conferences/2027)
+* Reviewer at [NeurIPS 2023](https://nips.cc/Conferences/2023) (top), [NeurIPS 2024](https://nips.cc/Conferences/2024), [NeurIPS 2025](https://nips.cc/Conferences/2025), [NeurIPS 2026](https://nips.cc/Conferences/2026) (top), 
+* Reviewer at [AISTATS 2023](http://www.aistats.org/aistats2023/) (top), [AISTATS 2024](https://aistats.org/aistats2024/), [AISTATS 2026](https://aistats.org/aistats2026/), [AISTATS 2027](https://aistats.org/aistats2027/)
 * Research stay at [Rahul G. Krishnan's Lab](https://www.cs.toronto.edu/~rahulgk/) at the University of Toronto & Vector Institute, Oct-Dec 2025
 * Mentor at the [Responsible AI for Ukraine 2025 program](https://airesponsibly.net/RAIforUkraine/)
-* Reviewer at [NeurIPS 2025](https://nips.cc/Conferences/2025)
-* Reviewer at [ICML 2025](https://icml.cc/Conferences/2025)
-* Reviewer at [ICLR 2025](https://iclr.cc/Conferences/2025)
-* Reviewer at [NeurIPS 2024](https://nips.cc/Conferences/2024)
-* Reviewer at [ICML 2024](https://icml.cc/Conferences/2024)
 * Research stay at [van der Schaar Lab](https://www.vanderschaar-lab.com/) at the University of Cambridge, Feb-May 2024
-* Reviewer at [AISTATS 2024](https://aistats.org/aistats2024/)
-* Reviewer at [ICLR 2024](https://iclr.cc/Conferences/2024)
-* Top reviewer at [NeurIPS 2023](https://nips.cc/Conferences/2023)
 * Teacher assistant at [Nordic Probabilistic AI School 2023](https://probabilistic.ai/)
-* Top reviewer at [AISTATS 2023](http://www.aistats.org/aistats2023/)
 
 ## Work experience
 * Research Assistant, Fraunhofer Institute for Integrated Circuits IIS (Munich, Germany), 2019 - 2021
