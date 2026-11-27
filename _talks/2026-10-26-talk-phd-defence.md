@@ -17,5 +17,8 @@ Disputation for the degree of PhD in Computer Science, defending my dissertation
 **Organizing committee**: Prof. Dr. Eyke Hüllermeier, Prof. Dr. Marcus Paradies\
 **Reference**: [https://edoc.ub.uni-muenchen.de/37918/](https://edoc.ub.uni-muenchen.de/37918/)
 
-
+![aistats-2026](/images/defence-0.jpeg)
+![aistats-2026](/images/defence-1.jpeg)
+![aistats-2026](/images/defence-2.jpeg)
+![aistats-2026](/images/defence-3.jpeg)
 
